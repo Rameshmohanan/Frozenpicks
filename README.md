@@ -7,4 +7,19 @@ Frozen Picks is a modern eCommerce platform built for selling and delivering pre
 - Mobile‑first design using Tailwind (or Material UI)
 - Fast, modern frontend with Next.js (or React)
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Frozen Picks</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="hero">
+    <h1>Welcome to Frozen Picks</h1>
+    <p>Your one-stop shop for premium frozen foods</p>
+  </header>
+</body>
+</html>
 
